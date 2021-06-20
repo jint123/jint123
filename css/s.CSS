@@ -1,0 +1,26 @@
+   
+.container1{
+    display: block;
+    border: solid;
+}
+.container2{
+    display: block;
+    border: solid;
+}
+h3{
+    text-align: center;
+    font-family: LiSu;
+    font-size: xx-large;
+}
+.container{
+    font-family: "小篆",simsun,sinHei;
+    font-weight: lighter;
+    line-height: 25px;
+    letter-spacing: 2px;
+    text-indent: 2em;
+}
+h5{
+    font-family: LiSu;
+    font-size: xx-large;
+    text-align: center;
+}

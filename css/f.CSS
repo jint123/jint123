@@ -1,0 +1,53 @@
+.row{
+    height: 75%;
+
+
+}
+h5{
+    font-family: LiSu;
+    font-size: xx-large;
+}
+h4{
+    font-family:LiSu;
+    text-align: center;
+    text-indent: 0mm;
+}
+h4:before,h4:after{
+    content:"";
+    width: 90px;
+    height: 5px;
+    border-color: rgb(235, 5, 5);
+    border: 1px solid;
+    
+    background-color: rgb(247, 11, 11); 
+    display: inline-block;
+}
+h2{
+      font-family: LiSu;
+      font-size: xx-large;
+      font-weight: lighter;
+      text-align: left;
+      text-indent: 0mm;
+}
+.container{
+    font-family: "小篆",simsun,sinHei;
+    font-weight: lighter;
+    line-height: 25px;
+    letter-spacing: 2px;
+    text-indent: 2em;
+}
+h5{
+    font-family: LiSu;
+    text-align: center;
+    font-size: xx-large;
+}
+.col-md-5{
+    border: solid;
+    border-right: hidden;
+    border-color: paleturquoise;
+}
+.col-md-7{
+    border: solid;
+    border-left: hidden;
+    border-color: paleturquoise;
+}
